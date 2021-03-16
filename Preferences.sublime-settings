@@ -1,0 +1,16 @@
+{
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"sidebar_no_icon": true,
+	"sidebar_size_14": true,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

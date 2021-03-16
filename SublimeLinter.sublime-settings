@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+    "paths":
+    {
+        "windows":
+        [
+            "C:/Users/Jonah/AppData/Roaming/Python/Python39/site-packages/flake8"
+        ]
+    },
+}
